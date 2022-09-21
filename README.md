@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu-6537&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-6537" /> </p>
 
-- 🌱 I’m currently learning **Android , MEARN**
+- 🌱 I’m currently learning **Android , MERN**
 
 - 💬 Ask me about **Java**
 
